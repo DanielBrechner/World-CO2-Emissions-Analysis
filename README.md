@@ -4,4 +4,4 @@
 
 # Requirements to run project
 
-pip install pandas
+Dependency libraries are in the requirements.txt file
