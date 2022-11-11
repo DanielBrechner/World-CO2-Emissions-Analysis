@@ -4,7 +4,12 @@
 
 ## Requirements to run project
 
-Dependency libraries are in the requirements.txt file
+1.) Download Anaconda https://www.anaconda.com/products/distribution
+2.) Download Visual Studio Code https://code.visualstudio.com/
+3.) Clone repo from https://github.com/DanielBrechner/World-CO2-Emissions-Analysis.git
+4.) Open app.ipynb and press "run all" to run the program.
+
+Dependency libraries are documented in the requirements.txt file
 
 ## Project Requirements
 
