@@ -8,6 +8,7 @@
 - Pandas (6.4.12 or newer)
 - Numpy
 - Matplotlib
+- Seaborn
 
 (Dependency libraries are documented in the requirements.txt file)
 
