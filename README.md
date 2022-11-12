@@ -4,7 +4,8 @@
 
 ## Required packages to install
 
-- Pandas
+- Python (3.9.12 or newer)
+- Pandas (6.4.12 or newer)
 - Numpy
 - Matplotlib
 
