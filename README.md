@@ -4,9 +4,9 @@
 
 ## Required packages to install
 
--Pandas
--Numpy
--Matplotlib
+- Pandas
+- Numpy
+- Matplotlib
 
 (Dependency libraries are documented in the requirements.txt file)
 
@@ -23,3 +23,17 @@
 5. Markdown in Jupyter Notebook to describe what you arew doing and seeing
 
 6. Write a README
+
+## About this dataset
+
+The information in this dataset includes;
+
+- Country name
+- Country abbreviation
+- Calling code
+- Year(1750-2020)
+- CO2 emissions in tons
+- Population as of 2020
+- Area
+- Percent of the world's landmass
+- Density in km2
