@@ -5,7 +5,8 @@
 ## Required packages to install
 
 - Python (3.9.12 or newer)
-- Pandas (6.4.12 or newer)
+- Jupyter (6.4.12 or newer)
+- Pandas
 - Matplotlib
 
 (Dependency libraries are documented in the requirements.txt file)
@@ -18,9 +19,9 @@
 
 3. Do 5 basic calculations with Pandas
 
-4. Visualize you data with 2 basic plots
+4. Visualize your data with 2 basic plots
 
-5. Markdown in Jupyter Notebook to describe what you arew doing and seeing
+5. Markdown in Jupyter Notebook to describe what you are doing and seeing
 
 6. Write a README
 
